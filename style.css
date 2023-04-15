@@ -208,6 +208,9 @@ button{
         margin-bottom:15px;
         border-radius: 25px;
     }
+    button{
+        background-color: #0d686d;
+    }
 }
 
 
