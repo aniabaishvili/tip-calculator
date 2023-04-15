@@ -202,6 +202,10 @@ button{
     color:#00474b;
     
 }
+input:focus {
+    outline: 2px solid #26c2ae;
+    cursor: pointer;
+}
 
 button:hover{
     background-color: #9fe8df;
