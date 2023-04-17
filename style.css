@@ -76,6 +76,7 @@ input{
     background-color: #00474b;
     color: white;
     font-weight: 700;
+    cursor: pointer;
     
     
 }
@@ -86,6 +87,7 @@ input{
     border-radius: 5px;
     background-color: #26c2ae;
     color:#00474b;
+    cursor: pointer;
 }
 
 .box3 p{
